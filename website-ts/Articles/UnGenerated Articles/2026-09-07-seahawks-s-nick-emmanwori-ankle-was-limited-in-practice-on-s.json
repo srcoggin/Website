@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Seahawks S Nick Emmanwori (ankle) was limited in practice on Sunday",
-      "description": "The Seahawks have been saying very little about safety Nick Emmanwori's recovery from offseason ankle surgery that happened in July.",
-      "url": "https://sports.yahoo.com/articles/seahawks-nick-emmanwori-ankle-limited-002405414.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Seahawks S Nick Emmanwori (ankle) was limited in practice on Sunday",
       "description": "The Seahawks have been saying very little about safety Nick Emmanwori's recovery from offseason ankle surgery that happened in July.",
@@ -36,5 +30,5 @@
     "july"
   ],
   "hash": "0d37961df1e7f6eb",
-  "queuedAt": "2026-09-07T05:02:36.948Z"
+  "queuedAt": "2026-09-07T13:31:02.251Z"
 }

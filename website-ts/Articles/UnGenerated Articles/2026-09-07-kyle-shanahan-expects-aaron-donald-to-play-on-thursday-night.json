@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kyle Shanahan expects Aaron Donald to play on Thursday night",
-      "description": "Aaron Donald is back.",
-      "url": "https://sports.yahoo.com/articles/kyle-shanahan-expects-aaron-donald-044350630.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kyle Shanahan expects Aaron Donald to play on Thursday night",
       "description": "Aaron Donald is back.",
@@ -27,5 +21,5 @@
     "back"
   ],
   "hash": "7e615c4da86fa60f",
-  "queuedAt": "2026-09-07T05:02:36.464Z"
+  "queuedAt": "2026-09-07T13:31:01.249Z"
 }

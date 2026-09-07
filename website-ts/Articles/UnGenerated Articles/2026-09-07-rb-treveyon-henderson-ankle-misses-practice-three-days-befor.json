@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "RB TreVeyon Henderson (ankle) misses practice, three days before Week 1",
-      "description": "Henderson injured ankle nearly two weeks ago.",
-      "url": "https://sports.yahoo.com/articles/rb-treveyon-henderson-ankle-misses-000658334.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "RB TreVeyon Henderson (ankle) misses practice, three days before Week 1",
       "description": "Henderson injured ankle nearly two weeks ago.",
@@ -30,5 +24,5 @@
     "ago"
   ],
   "hash": "f63b38d119716bdd",
-  "queuedAt": "2026-09-07T05:02:37.063Z"
+  "queuedAt": "2026-09-07T13:31:02.382Z"
 }

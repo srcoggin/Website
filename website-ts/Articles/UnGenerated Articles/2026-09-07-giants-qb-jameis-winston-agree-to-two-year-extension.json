@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Giants, QB Jameis Winston agree to two-year extension",
-      "description": "No. 1 overall pick in 2015 embraces his status as No. 2 on the depth chart.",
-      "url": "https://sports.yahoo.com/articles/giants-qb-jameis-winston-agree-214851213.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Giants, QB Jameis Winston agree to two-year extension",
       "description": "No. 1 overall pick in 2015 embraces his status as No. 2 on the depth chart.",
@@ -32,5 +26,5 @@
     "chart"
   ],
   "hash": "853aada7f4c322c7",
-  "queuedAt": "2026-09-07T05:02:37.185Z"
+  "queuedAt": "2026-09-07T13:31:02.682Z"
 }
