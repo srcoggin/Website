@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Todd Monken: There could be a package of plays for QB Taylen Green",
-      "description": "Deshaun Watson will be starting at quarterback for the Browns in Week 1, but head coach Todd Monken left the door open to the possibility that another quarterback could also see playing time against the Jaguars.",
-      "url": "https://sports.yahoo.com/articles/todd-monken-could-package-plays-182902268.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Todd Monken: There could be a package of plays for QB Taylen Green",
       "description": "Deshaun Watson will be starting at quarterback for the Browns in Week 1, but head coach Todd Monken left the door open to the possibility that another quarterback could also see playing time against the Jaguars.",
@@ -43,5 +37,5 @@
     "jaguars"
   ],
   "hash": "77a4443b7b958673",
-  "queuedAt": "2026-09-07T19:20:22.242Z"
+  "queuedAt": "2026-09-07T22:18:31.430Z"
 }
