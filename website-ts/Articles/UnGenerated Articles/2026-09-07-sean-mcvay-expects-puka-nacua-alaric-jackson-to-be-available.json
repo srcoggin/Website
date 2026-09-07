@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sean McVay expects Puka Nacua, Alaric Jackson to be available Thursday",
-      "description": "Rams wide receiver Puka Nacua and left tackle Alaric Jackson are both on the team's active roster on Monday and the team isn't expecting that to change ahead of their opener against the 49ers.",
-      "url": "https://sports.yahoo.com/articles/sean-mcvay-expects-puka-nacua-123615584.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sean McVay expects Puka Nacua, Alaric Jackson to be available Thursday",
       "description": "Rams wide receiver Puka Nacua and left tackle Alaric Jackson are both on the team's active roster on Monday and the team isn't expecting that to change ahead of their opener against the 49ers.",
@@ -46,5 +40,5 @@
     "49ers"
   ],
   "hash": "a8419066b62432fa",
-  "queuedAt": "2026-09-07T13:30:52.971Z"
+  "queuedAt": "2026-09-07T19:20:34.010Z"
 }
