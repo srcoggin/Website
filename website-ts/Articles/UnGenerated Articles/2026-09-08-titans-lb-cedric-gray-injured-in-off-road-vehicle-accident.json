@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Titans LB Cedric Gray injured in off-road vehicle accident",
-      "description": "Titans linebacker Cedric Gray has entered the NFL's concussion protocol after being injured in an off-field accident over the weekend.",
-      "url": "https://sports.yahoo.com/articles/titans-lb-cedric-gray-injured-220111544.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Titans LB Cedric Gray injured in off-road vehicle accident",
       "description": "Titans linebacker Cedric Gray has entered the NFL's concussion protocol after being injured in an off-field accident over the weekend.",
@@ -33,5 +27,5 @@
     "weekend"
   ],
   "hash": "974863d6cc5f77e0",
-  "queuedAt": "2026-09-08T05:13:56.919Z"
+  "queuedAt": "2026-09-08T12:25:11.061Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "George Kittle \"in good shape\" to play season opener",
-      "description": "Tight end George Kittle traveled with the 49ers to Australia, which was a sign he would play in Thursday night's season opener.",
-      "url": "https://sports.yahoo.com/articles/george-kittle-good-shape-play-031606633.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "George Kittle \"in good shape\" to play season opener",
       "description": "Tight end George Kittle traveled with the 49ers to Australia, which was a sign he would play in Thursday night's season opener.",
@@ -33,5 +27,5 @@
     "nights"
   ],
   "hash": "003f44f6528efdbd",
-  "queuedAt": "2026-09-08T05:13:56.251Z"
+  "queuedAt": "2026-09-08T12:25:10.267Z"
 }

@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Derrick Henry: I am tired of watching the Super Bowl on TV",
-      "description": "Derrick Henry has played in one AFC Championship Game, a 35-24 loss to the Chiefs in the 2019 season.",
-      "url": "https://sports.yahoo.com/articles/derrick-henry-am-tired-watching-230928307.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Derrick Henry: I am tired of watching the Super Bowl on TV",
       "description": "Derrick Henry has played in one AFC Championship Game, a 35-24 loss to the Chiefs in the 2019 season.",
@@ -32,5 +26,5 @@
     "2019"
   ],
   "hash": "93bf31fcbb818aef",
-  "queuedAt": "2026-09-08T05:13:56.650Z"
+  "queuedAt": "2026-09-08T12:25:10.703Z"
 }

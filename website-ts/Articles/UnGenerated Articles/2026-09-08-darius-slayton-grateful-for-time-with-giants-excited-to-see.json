@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Darius Slayton: Grateful for time with Giants, excited to see what's next",
-      "description": "Wide receiver Darius Slayton's long run with the Giants came to an end on Monday.",
-      "url": "https://sports.yahoo.com/articles/darius-slayton-grateful-time-giants-221054990.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Darius Slayton: Grateful for time with Giants, excited to see what's next",
       "description": "Wide receiver Darius Slayton's long run with the Giants came to an end on Monday.",
@@ -35,5 +29,5 @@
     "monday"
   ],
   "hash": "656734cf3e68e5d3",
-  "queuedAt": "2026-09-08T05:13:56.790Z"
+  "queuedAt": "2026-09-08T12:25:10.937Z"
 }

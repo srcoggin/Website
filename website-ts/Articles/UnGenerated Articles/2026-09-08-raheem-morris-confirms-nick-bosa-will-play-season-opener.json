@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Raheem Morris confirms Nick Bosa will play season opener",
-      "description": "The 49ers defensive end tore his ACL in a Sept. 21 game against the Cardinals and underwent surgery Sept. 26.",
-      "url": "https://sports.yahoo.com/articles/raheem-morris-confirms-nick-bosa-021347425.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Raheem Morris confirms Nick Bosa will play season opener",
       "description": "The 49ers defensive end tore his ACL in a Sept. 21 game against the Cardinals and underwent surgery Sept. 26.",
@@ -36,5 +30,5 @@
     "surgery"
   ],
   "hash": "70c2dab6ceae5831",
-  "queuedAt": "2026-09-08T05:13:56.383Z"
+  "queuedAt": "2026-09-08T12:25:10.425Z"
 }
