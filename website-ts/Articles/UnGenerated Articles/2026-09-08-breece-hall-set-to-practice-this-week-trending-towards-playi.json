@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Breece Hall set to practice this week, \"trending towards playing\" against Titans",
-      "description": "Running back Breece Hall remains on the right path to be in the lineup for the Jets against the Titans in Week 1.",
-      "url": "https://sports.yahoo.com/articles/breece-hall-set-practice-week-162206243.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Breece Hall set to practice this week, \"trending towards playing\" against Titans",
       "description": "Running back Breece Hall remains on the right path to be in the lineup for the Jets against the Titans in Week 1.",
@@ -35,5 +29,5 @@
     "jets"
   ],
   "hash": "5c478e72212f91b7",
-  "queuedAt": "2026-09-08T18:00:31.223Z"
+  "queuedAt": "2026-09-08T21:52:39.272Z"
 }

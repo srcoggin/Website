@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rome Odunze dealing with foot injury, Bears hopeful he'll play Week 1",
-      "description": "Bears receiver Rome Odunze is dealing with a foot injury, but he may still be able to play in Sunday’s season opener against the Panthers.",
-      "url": "https://sports.yahoo.com/articles/rome-odunze-dealing-foot-injury-171334273.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rome Odunze dealing with foot injury, Bears hopeful he'll play Week 1",
       "description": "Bears receiver Rome Odunze is dealing with a foot injury, but he may still be able to play in Sunday’s season opener against the Panthers.",
@@ -34,5 +28,5 @@
     "panthers"
   ],
   "hash": "fba49c38c2c977f7",
-  "queuedAt": "2026-09-08T18:00:30.767Z"
+  "queuedAt": "2026-09-08T21:52:39.099Z"
 }

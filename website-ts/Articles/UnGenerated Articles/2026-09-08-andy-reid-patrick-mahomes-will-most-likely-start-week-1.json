@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Andy Reid: Patrick Mahomes will \"most likely\" start Week 1",
-      "description": "Though he suffered a torn ACL in December, Mahomes is in line to return for the start of the 2026 season.",
-      "url": "https://sports.yahoo.com/articles/andy-reid-patrick-mahomes-most-173804496.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Andy Reid: Patrick Mahomes will \"most likely\" start Week 1",
       "description": "Though he suffered a torn ACL in December, Mahomes is in line to return for the start of the 2026 season.",
@@ -32,5 +26,5 @@
     "2026"
   ],
   "hash": "c2bced1dd9159428",
-  "queuedAt": "2026-09-08T18:00:30.610Z"
+  "queuedAt": "2026-09-08T21:52:38.930Z"
 }
