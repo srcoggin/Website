@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Myles Garrett ready for start of season despite lack of training camp reps",
-      "description": "Rams outside linebacker Myles Garrett did not practice Tuesday.",
-      "url": "https://sports.yahoo.com/articles/myles-garrett-ready-start-season-234816666.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Myles Garrett ready for start of season despite lack of training camp reps",
       "description": "Rams outside linebacker Myles Garrett did not practice Tuesday.",
@@ -32,5 +26,5 @@
     "tuesday"
   ],
   "hash": "0255700174eeadca",
-  "queuedAt": "2026-09-09T05:41:19.757Z"
+  "queuedAt": "2026-09-09T12:18:31.226Z"
 }

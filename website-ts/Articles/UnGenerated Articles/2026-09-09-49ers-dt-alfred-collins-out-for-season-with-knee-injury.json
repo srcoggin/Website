@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers DT Alfred Collins out for season with knee injury",
-      "description": "49ers defensive tackle Alfred Collins tore his patellar tendon in practice this week, according to coach Kyle Shanahan.",
-      "url": "https://sports.yahoo.com/articles/49ers-dt-alfred-collins-season-030746650.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers DT Alfred Collins out for season with knee injury",
       "description": "49ers defensive tackle Alfred Collins tore his patellar tendon in practice this week, according to coach Kyle Shanahan.",
@@ -36,5 +30,5 @@
     "shanahan"
   ],
   "hash": "1f9e6741e0d42874",
-  "queuedAt": "2026-09-09T05:41:19.620Z"
+  "queuedAt": "2026-09-09T12:18:31.050Z"
 }

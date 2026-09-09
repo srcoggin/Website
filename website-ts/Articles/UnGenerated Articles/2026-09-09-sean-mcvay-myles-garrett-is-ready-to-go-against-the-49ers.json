@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sean McVay: Myles Garrett is ready to go against the 49ers",
-      "description": "Defensive tackle Aaron Donald won't be in the Rams' lineup when they take the field against the 49ers in Melbourne, Australia this week, but defensive end Myles Garrett will be on hand.",
-      "url": "https://sports.yahoo.com/articles/sean-mcvay-myles-garrett-ready-221116285.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sean McVay: Myles Garrett is ready to go against the 49ers",
       "description": "Defensive tackle Aaron Donald won't be in the Rams' lineup when they take the field against the 49ers in Melbourne, Australia this week, but defensive end Myles Garrett will be on hand.",
@@ -40,5 +34,5 @@
     "hand"
   ],
   "hash": "7dad2d054e55758a",
-  "queuedAt": "2026-09-09T05:41:20.225Z"
+  "queuedAt": "2026-09-09T12:18:31.749Z"
 }
